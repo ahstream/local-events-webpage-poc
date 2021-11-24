@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Julkonsert: Tommy Körberg",
+      "location": "Uppsala Konsert & Kongress",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Fredag 29 Nov, 21.00",
+      "dateHeaderText": "Fredag 29 November 2021",
+      "thumbImageSrc": "https://media-exp1.licdn.com/dms/image/C560BAQFCNL3x80hdUA/company-logo_200_200/0/1580218662554?e=2159024400&v=beta&t=_1tQ8g8yJHXyJsN60tYZECzoeZTJVm9KNGvkHsuhmDM",
+      "distance": 0.5,
+      "promoted": false,
+      "tags": ["Konsert", "Julmusik"]
+    },
+    {
+      "id": 1,
+      "name": "Författarsignering: Olof Lundh",
+      "location": "Akademibokhandeln",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Fredag 29 Nov, 17.00",
+      "dateHeaderText": "Fredag 29 November 2021",
+      "thumbImageSrc": "https://i1.wp.com/magasinetfilter.se/wp-content/uploads/2018/04/oloflundh_johanna_hanno.jpg?fit=1653%2C2551&ssl=1",
+      "distance": 0.5,
+      "promoted": false,
+      "tags": ["Författarsignering"]
+    },
+    {
+      "id": 1,
+      "name": "KSMB",
+      "location": "Katalin",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Fredag 29 Nov, 21.00",
+      "dateHeaderText": "Fredag 29 November 2021",
+      "thumbImageSrc": "data:image/png;base64,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",
+      "distance": 0.5,
+      "promoted": false,
+      "tags": ["Konsert", "Punk"]
+    },
+    {
+      "id": 1,
+      "name": "Sirius - Göteborg",
+      "location": "Studenternas Idrottsplats",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Fredag 29 Nov, 19.00",
+      "dateHeaderText": "Fredag 29 November 2021",
+      "thumbImageSrc": "https://www.siriusfotboll.se/content/uploads/2021/03/iksirius-logo.png",
+      "distance": 0.5,
+      "promoted": false,
+      "tags": ["Sport", "Fotboll", "Herr", "Allsvenskan"]
+    },
+    {
+      "id": 2,
+      "name": "Tomas Andersson Wij & Paulina Palmgren",
+      "location": "Katalin",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Lördag 30 Nov, 19.00",
+      "dateHeaderText": "Lördag 30 November 2021",
+      "thumbImageSrc": "data:image/png;base64,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",
+      "distance": 0.4,
+      "promoted": false,
+      "tags": ["Konsert", "Pop"]
+    },
+    {
+      "id": 2,
+      "name": "Tomas Andersson Wij & Paulina Palmgren",
+      "location": "Katalin",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Lördag 30 Nov, 19.00",
+      "dateHeaderText": "Lördag 30 November 2021",
+      "thumbImageSrc": "data:image/png;base64,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",
+      "distance": 0.4,
+      "promoted": true,
+      "tags": ["Konsert", "Pop"]
+    },
+    {
+      "id": 1,
+      "name": "Julkonsert: Tommy Körberg",
+      "location": "Uppsala Konsert & Kongress",
+      "startTime": 1638097200000,
+      "endTime": 1638108000000,
+      "dateTimeText": "Fredag 29 Nov, 21.00",
+      "thumbImageSrc": "https://media-exp1.licdn.com/dms/image/C560BAQFCNL3x80hdUA/company-logo_200_200/0/1580218662554?e=2159024400&v=beta&t=_1tQ8g8yJHXyJsN60tYZECzoeZTJVm9KNGvkHsuhmDM",
+      "distance": 0.5,
+      "promoted": false,
+      "tags": null
+    }
+  ]
+}
