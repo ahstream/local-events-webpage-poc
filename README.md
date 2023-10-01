@@ -1,6 +1,6 @@
 # Local Events Webpage POC
 
-Sample webpage showing Local Events. See TODO for more info.
+Sample webpage showing Local Events. See https://github.com/ahstream/local-events for more info.
 
 ## Getting Started
 

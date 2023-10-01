@@ -1,6 +1,9 @@
 {
-  "name": "next-test2",
-  "private": true,
+  "name": "@ahstream/local-events-webpage-poc",
+  "version": "0.9.0",
+  "description": "Webpage POC for Local Events app",
+  "author": "hstream@gmail.com",
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
